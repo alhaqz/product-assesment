@@ -178,5 +178,3 @@ CREATE TABLE IF NOT EXISTS public.products (
 ```
 
 ---
-
-This README keeps your test assignment clear, aligned with requirements, and structured for direct implementation and submission.
